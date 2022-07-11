@@ -1,0 +1,1 @@
+@start ExtremeDeath.exe
